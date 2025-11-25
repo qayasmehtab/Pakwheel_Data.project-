@@ -1,0 +1,9 @@
+# requirements.txt
+requests
+beautifulsoup4
+pandas
+numpy
+matplotlib
+sqlalchemy
+pyodbc          
+streamlit

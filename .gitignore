@@ -1,0 +1,10 @@
+# # .gitignore
+# # Environment
+# .venv/
+# __pycache__/
+# *.pyc
+
+# # Data and Logs
+# data/
+# *.log
+# .env # If you use environment variables for credentials
